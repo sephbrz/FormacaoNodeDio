@@ -1,0 +1,20 @@
+[
+    {
+        "podcastName": "flow",
+        "episode": "LUCIO MARIO FILHO",
+        "videoId": "16ItO8XPrXY",
+        "categories": ["televisao"]
+    },
+    {
+        "podcastName": "flow",
+        "episode": "[MEDALHISTA OLÍMPICO 🥈] ISAQUIAS QUEIROZ",
+        "videoId": "7BZkp3qaRu8",
+        "categories": ["esportes", "olimpiada"]
+    },
+    {
+        "podcastName": "teste",
+        "episode": "teste",
+        "videoId": "000000001",
+        "categories": ["teste"]
+    }
+]

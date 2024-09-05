@@ -1,0 +1,23 @@
+{
+  "name": "13-projeto-app-flow",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "preBuild": "npm i typescript tsx tsup -D",
+    "start:dev": "tsx --env-file=.env src/server.ts",
+    "dist": "tsup src"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.5.2",
+    "tsup": "^8.2.4",
+    "tsx": "^4.19.0",
+    "typescript": "^5.5.4"
+  }
+}
